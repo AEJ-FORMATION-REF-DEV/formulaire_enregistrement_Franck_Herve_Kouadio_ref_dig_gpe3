@@ -1,0 +1,22 @@
+.main{
+    background-color: blueviolet;
+    margin: auto;
+}
+h2{
+    color: rgb(5, 5, 104);
+    font-size: 24px;
+    text-align: center;
+    float: center;
+    margin-top: 15px;
+    margin:auto
+}
+.remplissage{
+    border-radius: 5%;
+    border-top: red 25px;
+    border-bottom: red;
+    background-color: khaki;
+    height: 100%;
+    width: 30%;
+    float: center;
+    margin: auto;
+}
